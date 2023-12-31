@@ -1,1 +1,1 @@
-# Package 📦 uim.myname.interfaces
+# Package 📦 uim.commands.interfaces

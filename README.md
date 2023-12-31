@@ -1,1 +1,1 @@
-# Library 📚 uim-myname
+# Library 📚 uim-commands

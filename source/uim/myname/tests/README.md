@@ -1,1 +1,1 @@
-# Package 📦 uim.myname.tests
+# Package 📦 uim.commands.tests

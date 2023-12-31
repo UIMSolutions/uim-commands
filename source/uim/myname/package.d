@@ -1,15 +1,15 @@
-module uim.myname;
+module uim.commands;
 
 public { // required uim libraries
   import uim.core;
   import uim.oop;
 }
 
-public { // myname packages
-  import uim.myname.classes;
-  import uim.myname.exceptions;
-  import uim.myname.interfaces;
-  import uim.myname.helpers;
-  import uim.myname.mixins;
-  import uim.myname.tests;
+public { // commands packages
+  import uim.commands.classes;
+  import uim.commands.exceptions;
+  import uim.commands.interfaces;
+  import uim.commands.helpers;
+  import uim.commands.mixins;
+  import uim.commands.tests;
 }

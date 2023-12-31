@@ -1,1 +1,1 @@
-# Package 📦 uim.myname.classes
+# Package 📦 uim.commands.classes

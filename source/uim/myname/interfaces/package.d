@@ -1,1 +1,1 @@
-module uim.myname.interfaces;
+module uim.commands.interfaces;

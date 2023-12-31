@@ -1,6 +1,6 @@
 {
-	"name": "uim-myname",
-	"description": "D library myname",
+	"name": "uim-commands",
+	"description": "D library commands",
 	"authors": [
 		"Sicherheitsschmiede",
 		"Ozan Nurettin Süel"
@@ -16,7 +16,7 @@
 			"name": "test",
 			"targetType": "library",
 			"versions": [
-				"test_uim_myname"
+				"test_uim_commands"
 			]
 		}
 	],

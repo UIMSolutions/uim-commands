@@ -1,1 +1,1 @@
-module uim.myname.helpers;
+module uim.commands.helpers;

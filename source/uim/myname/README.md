@@ -1,4 +1,4 @@
-# Package 📦 uim.myname
+# Package 📦 uim.commands
 
 ## Classes
 

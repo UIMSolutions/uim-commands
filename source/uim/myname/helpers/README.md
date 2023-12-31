@@ -1,1 +1,1 @@
-# Package 📦 uim.myname.helpers
+# Package 📦 uim.commands.helpers

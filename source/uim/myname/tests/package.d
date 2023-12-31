@@ -1,1 +1,1 @@
-module uim.myname.tests;
+module uim.commands.tests;
